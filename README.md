@@ -1,6 +1,6 @@
 # Akhil
 
-I work in enterprise technology sales and business growth across MENA at Apar Technologies. I’m also a co-founder building Talawy with product and engineering collaborators.
+I’m a co-founder building Talawy with product and engineering collaborators.
 
 ## Current focus
 
