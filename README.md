@@ -1,16 +1,13 @@
-## Hi there 👋
+# Akhil
 
-<!--
-**akhil-talawy/akhil-talawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in enterprise technology sales and business growth across MENA at Apar Technologies. I’m also a co-founder building Talawy with product and engineering collaborators.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building Talawy
+- Exploring practical technology-enabled business opportunities
+- Working with product and engineering teams to shape useful solutions
+
+## About this profile
+
+This account is focused on Talawy-related work and selected reference repositories. Some repositories may be forks kept for evaluation; original authorship and upstream attribution remain with their source projects.
